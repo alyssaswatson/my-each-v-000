@@ -5,4 +5,5 @@ def my_each (array)
     yeild(collection[i])
     i = i + 1
   end
+  array
 end
